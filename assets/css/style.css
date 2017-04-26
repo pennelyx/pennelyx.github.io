@@ -1,0 +1,213 @@
+*{
+	color:#777777;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	box-sizing: border-box; 
+}
+
+a{
+	text-decoration:none;
+}
+
+header {
+	background-color:#ffffff;
+	border-bottom: solid #cccccc;
+  	border-bottom-width: 5px;
+	padding:40px;
+	margin-top: -10px;
+}
+
+h1 {
+  padding: 20px;
+  width:240px;
+  margin-top: -37px;
+  margin-left:10%;
+  color: #fff;
+  background: #4aaaa5;
+  text-align: center;
+  float:left;
+  font-family: 'Georgia', Times, Times, serif;
+}
+
+.subpages {
+	padding:35px;
+	margin-right:10%;
+	margin-top: -38px;
+	float: right;
+
+}
+
+
+body {
+	background-image: url(../images/wallet.png);
+	width:100%;
+
+
+}
+
+.leftside {
+	clear:both;
+	margin-left:12.5%;
+	width:48%;
+	background-color: #ffffff;
+	float:left;
+	padding-left: 30px;
+	padding-right: 30px;
+	border: 1px solid #666666;
+	margin-bottom: 50px;
+	position:relative;
+}
+
+.line1 {
+	height:3px;
+	width:98%;
+	background-color:#dddddd;
+	margin-bottom: 30px;
+
+}
+
+
+.head {
+	float:left;
+	margin-right: 20px;
+}
+
+.lk {
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+
+.textp{
+	font-size: 18px;
+	line-height: 150%;
+}
+
+.rightside {
+	width:270px;
+	font-size: 25px;
+	float:left;
+	margin-left:6.5%;
+	background-color: #ffffff;
+	padding-left: 30px;
+	border: 1px solid #666666;
+
+}
+
+.line2 {
+	height:2px;
+	width:88%;
+	background-color:#dddddd;
+	margin-bottom: 25px;
+	padding-left: -50px
+
+}
+
+h2 {
+	clear:both;
+	font-size: 30px;
+
+}
+
+
+footer {
+	clear:both;
+	background-color: #666666;
+	text-align: center;
+	padding:20px;
+	font-size: 10px;
+	color:white;
+	border-top-color:#cccccc;
+	border-top-style: solid;
+	border-top-width: 7px;
+
+}
+
+
+.formt{
+	font-size: 22px;
+	line-height: 30px;
+}
+
+
+.textb {
+	width:100%;
+	height:26px;
+	margin-bottom: 20px;
+
+}
+
+.textbig{
+	width:100%;
+	height:150px;
+	margin-bottom:30px;
+
+}
+
+.buttonsb{
+	background-color:#4aaaa5;
+	color:white;
+	padding:6px 25px 6px 25px;
+	font-size: 16px;
+	margin-bottom: 30px;
+
+}
+
+.pimg1{
+	margin:0px 3.3% 10% 0px;
+}
+
+.pimg2{
+	margin:0px 0px 10% 3.3%;
+}
+
+.toi1 {
+	position:absolute;
+	background-color: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	top:26%;
+	left:4.8%;
+	padding:2% 17% 2% 17%;
+}
+
+.toi2 {
+	position:absolute;
+	background-color: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	top:26%;
+	left:52%;
+	padding:2% 15% 2% 15%;
+}
+
+.toi3 {
+	position:absolute;
+	background-color: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	top:55%;
+	left:5%;
+	padding:2% 18% 2% 18%;
+}
+
+.toi4 {
+	position:absolute;
+	background-color: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	top:55%;
+	left:52%;
+	padding:2% 14.4% 2% 14.4%;
+}
+
+.toi5 {
+	position:absolute;
+	background-color: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	top:83.8%;
+	left:4.9%;
+	padding:2% 15.9% 2% 15.9%;
+}
+
+
