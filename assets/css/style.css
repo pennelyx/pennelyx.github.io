@@ -8,6 +8,11 @@ a{
 	text-decoration:none;
 }
 
+body {
+	background-image: url(../images/wallet.png);
+	width:100%;
+}
+
 header {
 	background-color:#ffffff;
 	border-bottom: solid #cccccc;
@@ -17,7 +22,7 @@ header {
 }
 
 h1 {
-  padding: 20px;
+  padding: 22px;
   width:240px;
   margin-top: -37px;
   margin-left:10%;
@@ -26,21 +31,16 @@ h1 {
   text-align: center;
   float:left;
   font-family: 'Georgia', Times, Times, serif;
+  font-size: 33.7px;
+  font-weight: bold;
 }
 
 .subpages {
 	padding:35px;
-	margin-right:10%;
+	margin-right:7%;
 	margin-top: -38px;
 	float: right;
-
-}
-
-
-body {
-	background-image: url(../images/wallet.png);
-	width:100%;
-
+	font-size: 18px;
 
 }
 
@@ -50,11 +50,19 @@ body {
 	width:48%;
 	background-color: #ffffff;
 	float:left;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding:10px 30px 30px 30px;
 	border: 1px solid #666666;
+	margin-top: 30px;
 	margin-bottom: 50px;
 	position:relative;
+}
+
+h2 {
+	clear:both;
+	font-size: 30px;
+	padding:20px 0px 20px 0px;
+	font-weight: bold;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .line1 {
@@ -65,32 +73,35 @@ body {
 
 }
 
-
 .head {
 	float:left;
 	margin-right: 20px;
 }
 
-.lk {
-	margin-right: 20px;
-	margin-bottom: 10px;
-}
-
-
-.textp{
+.textp {
 	font-size: 18px;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	line-height: 150%;
 }
+
 
 .rightside {
 	width:270px;
 	font-size: 25px;
 	float:left;
 	margin-left:6.5%;
+	margin-top: 30px;
 	background-color: #ffffff;
 	padding-left: 30px;
 	border: 1px solid #666666;
 
+}
+
+h3 {
+	clear:both;
+	font-size: 24px;
+	padding:20px 0px 0px 0px;
+	font-weight: bold;
 }
 
 .line2 {
@@ -102,10 +113,9 @@ body {
 
 }
 
-h2 {
-	clear:both;
-	font-size: 30px;
-
+.lk {
+	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 
@@ -159,6 +169,7 @@ footer {
 .pimg2{
 	margin:0px 0px 10% 3.3%;
 }
+
 
 .toi1 {
 	position:absolute;
